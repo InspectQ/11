@@ -1,0 +1,12 @@
+table {
+    width: 100%; /* Ширина таблицы */
+    background: white; /* Цвет фона таблицы */
+    color: white; /* Цвет текста */
+    border-spacing: 10px; /* Расстояние между ячейками */
+   }
+   td, th {
+    background: rgb(0, 58, 128); /* Цвет фона ячеек */
+    padding: 10px; /* Поля вокруг текста */
+    border: 5px groove #ccc /* Граница между ячейками */
+   }
+  
